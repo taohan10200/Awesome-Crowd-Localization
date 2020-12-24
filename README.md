@@ -14,7 +14,7 @@ Awesome Crowd Localization
 
 ### 2020 
 
-- <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  (**CVPR**) [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[Reproduction_code](https://github.com/taohan10200/IIM)]
+- <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  (**CVPR**) [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
 
 
 ### 2019 
