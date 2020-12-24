@@ -33,7 +33,7 @@ Awesome Crowd Localization
 
 ### Arxiv
 
-<a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
+- <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
@@ -68,6 +68,8 @@ Awesome Crowd Localization
 ## Leaderboard
 
 ### NWPU
+
+More detailed results are in this [link](https://www.crowdbenchmark.com/nwpucrowdloc.html).
 
 | Year--Conference/Journal |Methods      |Backbone |F1-measure|Precise|Recall|        A0~A5                 |  Avg. | 
 |  --------------------------|----------|---------- | -------  | --------| -------|-------------------------     |-------|
