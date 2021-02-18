@@ -32,12 +32,13 @@ Awesome Crowd Localization
 ## Papers
 
 ### Arxiv
-
+- Counting and Locating High-Density Objects Using Convolutional Neural Network [[paper](https://arxiv.org/pdf/2102.04366.pdf)]
 - <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
 ### 2021
+- <a  name="Crowd-SDNet"></a> **[Crowd-SDNet]**A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**T-IP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]
 
 ### 2020 
