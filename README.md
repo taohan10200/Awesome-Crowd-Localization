@@ -38,7 +38,7 @@ Awesome Crowd Localization
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
 ### 2021
-- <a  name="Crowd-SDNet"></a> **[Crowd-SDNet]**A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**T-IP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
+- <a name="Crowd-SDNet"></a> **[Crowd-SDNet]**A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**T-IP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]
 
 ### 2020 
@@ -74,9 +74,10 @@ More detailed results are in this [link](https://www.crowdbenchmark.com/nwpucrow
 
 | Year--Conference/Journal |Methods      |Backbone |F1-measure|Precise|Recall|        A0~A5                 |  Avg. | 
 |  --------------------------|----------|---------- | -------  | --------| -------|-------------------------     |-------|
-| 2015--NIPS | [Faster RCNN](#RCNN)      |ResNet-101| 6.7      | 95.8    | 3.5    | 0/0.002/0.4/7.9/37.2/63.5    | 18.2  |
-| 2017--CVPR | [TinyFaces](#TinyFaces)   |ResNet-101| 56.7     | 52.9    | 61.1   | 4.2/22.6/59.1/90.0/93.1/89.6 | 59.8  |
-| 2019--arXiv | [VGG+GPR](#VGG)          |VGG-16    | 52.5     | 55.8    | 49.6   | 3.1/27.2/49.1/68.7/49.8/26.3 | 37.4  |
-| 2019--CVPR | [RAZ_Loc](#RAZ_Loc)       |VGG-16    | 59.8     | 66.6    | 54.3   | 3.1/27.2/49.1/68.7/49.8/26.3 | 42.4  |
-| 2020--arXiv | [IIM](#IIM)              |VGG-16    | 73.2     | 77.9    | 69.2   | 10.1/44.1/70.7/82.4/83.0/61.4| 58.7  | 
-| 2020--arXiv | [IIM](#IIM)              |HRNet     | 76.2     | 81.3    | 71.7   | 12.0/46.0/73.2/85.5/86.7/64.3| 61.3  |  
+| 2015--NIPS | [Faster RCNN](#RCNN)       |ResNet-101| 6.7      | 95.8    | 3.5    | 0/0.002/0.4/7.9/37.2/63.5    | 18.2  |
+| 2017--CVPR | [TinyFaces](#TinyFaces)    |ResNet-101| 56.7     | 52.9    | 61.1   | 4.2/22.6/59.1/90.0/93.1/89.6 | 59.8  |
+| 2019--arXiv | [VGG+GPR](#VGG)           |VGG-16    | 52.5     | 55.8    | 49.6   | 3.1/27.2/49.1/68.7/49.8/26.3 | 37.4  |
+| 2019--CVPR | [RAZ_Loc](#RAZ_Loc)        |VGG-16    | 59.8     | 66.6    | 54.3   | 3.1/27.2/49.1/68.7/49.8/26.3 | 42.4  |
+| 2021--T-IP | [Crowd-SDNet](#Crowd-SDNet |ResNet-50 | 63.7     | 65.1    | 62.4   | 7.3/43.7/62.4/75.7/71.2/70.2 | 55.1  |
+| 2020--arXiv | [IIM](#IIM)               |VGG-16    | 73.2     | 77.9    | 69.2   | 10.1/44.1/70.7/82.4/83.0/61.4| 58.7  | 
+| 2020--arXiv | [IIM](#IIM)               |HRNet     | 76.2     | 81.3    | 71.7   | 12.0/46.0/73.2/85.5/86.7/64.3| 61.3  |  
