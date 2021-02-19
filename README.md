@@ -34,6 +34,7 @@ Awesome Crowd Localization
 ### Arxiv
 - Counting and Locating High-Density Objects Using Convolutional Neural Network [[paper](https://arxiv.org/pdf/2102.04366.pdf)]
 - <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
+- <a name='AutoScale'></a> **[AutoScale]** Autoscale: learning to scale for crowd counting  [[paper](https://arxiv.org/pdf/1912.09632.pdf)] [[code](https://github.com/dk-liang/AutoScale)]
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
@@ -48,7 +49,7 @@ Awesome Crowd Localization
 
 
 ### 2019 
-
+- Point in, Box out: Beyond Counting Persons in Crowds  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf)]
 - <a name="RAZ_Loc"></a> **[RAZ_Loc]** Recurrent attentive zooming for joint crowd counting and precise localization  (**CVPR**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Stewart_End-To-End_People_Detection_CVPR_2016_paper.pdf)] [[Reproduction_code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code-for-Localization)]
 - <a name="RDNet"></a> **[RDNet]** Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)][[code](https://github.com/svip-lab/RGBD-Counting)] 
 
