@@ -32,7 +32,7 @@ Awesome Crowd Localization
 ## Papers
 
 ### Arxiv
-- <a name="RDTM"></a> **RCTM]** Reciprocal Distance Transform Maps for Crowd Counting and People Localization in Dense Crowd [[paper]](https://arxiv.org/abs/2102.07925) [[code]](https://github.com/dk-liang/RDTM)
+- <a name="RDTM"></a> **[RDTM]** Reciprocal Distance Transform Maps for Crowd Counting and People Localization in Dense Crowd [[paper]](https://arxiv.org/abs/2102.07925) [[code]](https://github.com/dk-liang/RDTM)
 - Counting and Locating High-Density Objects Using Convolutional Neural Network [[paper](https://arxiv.org/pdf/2102.04366.pdf)]
 - <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
 - <a name='AutoScale'></a> **[AutoScale]** Autoscale: learning to scale for crowd counting  [[paper](https://arxiv.org/pdf/1912.09632.pdf)] [[code](https://github.com/dk-liang/AutoScale)]
