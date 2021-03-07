@@ -32,6 +32,7 @@ Awesome Crowd Localization
 ## Papers
 
 ### Arxiv
+- <a name="RDTM"></a> **RCTM]** Reciprocal Distance Transform Maps for Crowd Counting and People Localization in Dense Crowd [[paper]](https://arxiv.org/abs/2102.07925) [[code]](https://github.com/dk-liang/RDTM)
 - Counting and Locating High-Density Objects Using Convolutional Neural Network [[paper](https://arxiv.org/pdf/2102.04366.pdf)]
 - <a name="IIM"></a> **[IIM]**  Learning Independent Instance Maps for Crowd Localization  [[paper](https://arxiv.org/pdf/2012.04164.pdf)] [[code](https://github.com/taohan10200/IIM)]
 - <a name='AutoScale'></a> **[AutoScale]** Autoscale: learning to scale for crowd counting  [[paper](https://arxiv.org/pdf/1912.09632.pdf)] [[code](https://github.com/dk-liang/AutoScale)]
@@ -80,5 +81,6 @@ More detailed results are in this [link](https://www.crowdbenchmark.com/nwpucrow
 | 2019--arXiv | [VGG+GPR](#VGG)           |VGG-16    | 52.5     | 55.8    | 49.6   | 3.1/27.2/49.1/68.7/49.8/26.3 | 37.4  |
 | 2019--CVPR | [RAZ_Loc](#RAZ_Loc)        |VGG-16    | 59.8     | 66.6    | 54.3   | 3.1/27.2/49.1/68.7/49.8/26.3 | 42.4  |
 | 2021--T-IP | [Crowd-SDNet](#Crowd-SDNet) |ResNet-50 | 63.7     | 65.1    | 62.4   | 7.3/43.7/62.4/75.7/71.2/70.2 | 55.1  |
+| 2021--arXiv | [RDTM](#RDTM)             |VGG-16    | 69.9     | 75.1    | 65.4   | 11.5/46.3/68.5/74.9/54.6/18.2 | 45.7  |
 | 2020--arXiv | [IIM](#IIM)               |VGG-16    | 73.2     | 77.9    | 69.2   | 10.1/44.1/70.7/82.4/83.0/61.4| 58.7  | 
 | 2020--arXiv | [IIM](#IIM)               |HRNet     | 76.2     | 81.3    | 71.7   | 12.0/46.0/73.2/85.5/86.7/64.3| 61.3  |  
