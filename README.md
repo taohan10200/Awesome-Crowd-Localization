@@ -32,6 +32,7 @@ Awesome Crowd Localization
 ## Papers
 
 ### Arxiv 
+- <a name="DPP"></a> **[DPP]** Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization [[paper]](https://arxiv.org/abs/2104.12505) [[code]](https://github.com/WangyiNTU/SCALNet)
 - <a name="RDTM"></a> **[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper]](https://arxiv.org/pdf/2102.07925.pdf) [[code]](https://github.com/dk-liang/FIDTM)
 - <a name="RDTM"></a> **[RDTM]** Reciprocal Distance Transform Maps for Crowd Counting and People Localization in Dense Crowd [[paper]](https://arxiv.org/abs/2102.07925) [[code]](https://github.com/dk-liang/RDTM)
 - Counting and Locating High-Density Objects Using Convolutional Neural Network [[paper](https://arxiv.org/pdf/2102.04366.pdf)]
