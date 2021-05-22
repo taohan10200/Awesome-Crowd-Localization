@@ -67,6 +67,7 @@ Awesome Crowd Localization
 - Perceptual Generative Adversarial Networks for Small Object Detection (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Perceptual_Generative_Adversarial_CVPR_2017_paper.pdf)]
 
 ### 2015 
+- Small Instance Detection by Integer Programming on Object Density Maps, (**CVPR**) [[paper ]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ma_Small_Instance_Detection_2015_CVPR_paper.pdf)
 - <a name="Hydra-CNN"></a>  End-to-end people detection in crowded scenes  (**CVPR**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Stewart_End-To-End_People_Detection_CVPR_2016_paper.pdf)] [[code](https://github.com/gramuah/ccnn)]
 - <a name="Faster_RCNN"></a> **[Faster-RCNN]** Towards real-time object detection with region proposal networks  (**CVPR**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
 
