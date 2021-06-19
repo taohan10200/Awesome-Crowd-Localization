@@ -42,7 +42,8 @@ Awesome Crowd Localization
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
 ### 2021
-- <a name="Crowd-SDNet"></a> **[Crowd-SDNet]** A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**T-IP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
+- <a name="D2CNet"> **[D2CNet]** Decoupled Two-Stage Crowd Counting and Beyond (**TIP**) [[paper]](https://ieeexplore.ieee.org/document/9347700) [[code]](https://git.io/d2cnet)
+- <a name="Crowd-SDNet"></a> **[Crowd-SDNet]** A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**TIP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]
 
 ### 2020 
@@ -83,7 +84,9 @@ More detailed results are in this [link](https://www.crowdbenchmark.com/nwpucrow
 | 2017--CVPR | [TinyFaces](#TinyFaces)    |ResNet-101| 56.7     | 52.9    | 61.1   | 4.2/22.6/59.1/90.0/93.1/89.6 | 59.8  |
 | 2019--arXiv | [VGG+GPR](#VGG)           |VGG-16    | 52.5     | 55.8    | 49.6   | 3.1/27.2/49.1/68.7/49.8/26.3 | 37.4  |
 | 2019--CVPR | [RAZ_Loc](#RAZ_Loc)        |VGG-16    | 59.8     | 66.6    | 54.3   | 3.1/27.2/49.1/68.7/49.8/26.3 | 42.4  |
-| 2021--T-IP | [Crowd-SDNet](#Crowd-SDNet) |ResNet-50 | 63.7     | 65.1    | 62.4   | 7.3/43.7/62.4/75.7/71.2/70.2 | 55.1  |
-| 2021--arXiv | [RDTM](#RDTM)             |VGG-16    | 69.9     | 75.1    | 65.4   | 11.5/46.3/68.5/74.9/54.6/18.2 | 45.7  |
+| 2021--TIP | [Crowd-SDNet](#Crowd-SDNet) |ResNet-50 | 63.7     | 65.1    | 62.4   | 7.3/43.7/62.4/75.7/71.2/70.2 | 55.1  |
+| 2021--AAAI | [TopoCount](#TopoCount)    |VGG-16    | 69.2     | 68.3    | 70.1   | 5.7/39.1/72.2/85.7/87.3/89.7 | 63.3  |
+| 2021--arXiv | [RDTM](#RDTM)             |VGG-16    | 69.9     | 75.1    | 65.4   | 11.5/46.3/68.5/74.9/54.6/18.2 | 45.7 |
+| 2021--TIP   | [D2CNet](#D2CNet)         |VGG-16    | 70.0     | 74.1    | 66.2   | 11.3/ 50.2/67.8/74.5/69.5/76.5| 58.3 |
 | 2020--arXiv | [IIM](#IIM)               |VGG-16    | 73.2     | 77.9    | 69.2   | 10.1/44.1/70.7/82.4/83.0/61.4| 58.7  | 
 | 2020--arXiv | [IIM](#IIM)               |HRNet     | 76.2     | 81.3    | 71.7   | 12.0/46.0/73.2/85.5/86.7/64.3| 61.3  |  
