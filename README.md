@@ -42,11 +42,12 @@ Awesome Crowd Localization
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
 ### 2021
-- <a name="D2CNet"> **[D2CNet]** Decoupled Two-Stage Crowd Counting and Beyond (**TIP**) [[paper]](https://ieeexplore.ieee.org/document/9347700) [[code]](https://git.io/d2cnet)
+- <a name="D2CNet"></a> **[D2CNet]** Decoupled Two-Stage Crowd Counting and Beyond (**TIP**) [[paper]](https://ieeexplore.ieee.org/document/9347700) [[code]](https://git.io/d2cnet)
 - <a name="Crowd-SDNet"></a> **[Crowd-SDNet]** A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**TIP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]
 
 ### 2020 
+- <a name="DD-CNN"></a> **[DD-CNN]** Going Beyond the Regression Paradigm with Accurate Dot Prediction for Dense Crowds (**WACV**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9093386)
 - <a name="NWPU"></a> **[NWPU]** NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization (**T-PAMI**) [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]
 - <a name="LSC-CNN"></a> **[LSC-CNN]** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (**T-PAMI**) [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]
 - Scale Match for Tiny Person Detection (**WACV**) [[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.pdf)][[code](https://github.com/ucas-vg/TinyBenchmark)]
