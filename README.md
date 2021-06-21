@@ -32,7 +32,7 @@ Awesome Crowd Localization
 ## Papers
 
 ### Arxiv 
-- <a name="DPP"></a> **[DPP]** Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization [[paper]](https://arxiv.org/abs/2104.12505) [[code]](https://github.com/WangyiNTU/SCALNet)
+- <a name=" SCALNet"></a> **[SCALNet]** Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization [[paper]](https://arxiv.org/abs/2104.12505) [[code]](https://github.com/WangyiNTU/SCALNet)
 - <a name="RDTM"></a> **[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper]](https://arxiv.org/pdf/2102.07925.pdf) [[code]](https://github.com/dk-liang/FIDTM)
 - <a name="RDTM"></a> **[RDTM]** Reciprocal Distance Transform Maps for Crowd Counting and People Localization in Dense Crowd [[paper]](https://arxiv.org/abs/2102.07925) [[code]](https://github.com/dk-liang/RDTM)
 - Counting and Locating High-Density Objects Using Convolutional Neural Network [[paper](https://arxiv.org/pdf/2102.04366.pdf)]
@@ -54,6 +54,7 @@ Awesome Crowd Localization
 
 
 ### 2019 
+- <a name="RDNet></a> Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR**) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)
 - Point in, Box out: Beyond Counting Persons in Crowds  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf)]
 - <a name="RAZ_Loc"></a> **[RAZ_Loc]** Recurrent attentive zooming for joint crowd counting and precise localization  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Recurrent_Attentive_Zooming_for_Joint_Crowd_Counting_and_Precise_Localization_CVPR_2019_paper.pdf)] [[Reproduction_code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code-for-Localization)]
 - <a name="RDNet"></a> **[RDNet]** Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)][[code](https://github.com/svip-lab/RGBD-Counting)] 
@@ -88,6 +89,7 @@ More detailed results are in this [link](https://www.crowdbenchmark.com/nwpucrow
 | 2021--TIP | [Crowd-SDNet](#Crowd-SDNet) |ResNet-50 | 63.7     | 65.1    | 62.4   | 7.3/43.7/62.4/75.7/71.2/70.2 | 55.1  |
 | 2021--AAAI | [TopoCount](#TopoCount)    |VGG-16    | 69.2     | 68.3    | 70.1   | 5.7/39.1/72.2/85.7/87.3/89.7 | 63.3  |
 | 2021--arXiv | [RDTM](#RDTM)             |VGG-16    | 69.9     | 75.1    | 65.4   | 11.5/46.3/68.5/74.9/54.6/18.2 | 45.7 |
-| 2021--TIP   | [D2CNet](#D2CNet)         |VGG-16    | 70.0     | 74.1    | 66.2   | 11.3/ 50.2/67.8/74.5/69.5/76.5| 58.3 |
+| 2021--arXiv | [SCALNet](#SCALNet)       |DLA-34    | 69.1     |69.2     |69.0    | - | - |
+| 2021--TIP   | [D2CNet](#D2CNet)         |VGG-16    | 70.0     | 74.1    | 66.2   | 11.3/50.2/67.8/74.5/69.5/76.5| 58.3 |
 | 2020--arXiv | [IIM](#IIM)               |VGG-16    | 73.2     | 77.9    | 69.2   | 10.1/44.1/70.7/82.4/83.0/61.4| 58.7  | 
 | 2020--arXiv | [IIM](#IIM)               |HRNet     | 76.2     | 81.3    | 71.7   | 12.0/46.0/73.2/85.5/86.7/64.3| 61.3  |  
