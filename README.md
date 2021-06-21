@@ -54,7 +54,7 @@ Awesome Crowd Localization
 
 
 ### 2019 
-- <a name="RDNet></a> Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR**) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)
+- <a name="RDNet"></a> Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR**) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)
 - Point in, Box out: Beyond Counting Persons in Crowds  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf)]
 - <a name="RAZ_Loc"></a> **[RAZ_Loc]** Recurrent attentive zooming for joint crowd counting and precise localization  (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Recurrent_Attentive_Zooming_for_Joint_Crowd_Counting_and_Precise_Localization_CVPR_2019_paper.pdf)] [[Reproduction_code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code-for-Localization)]
 - <a name="RDNet"></a> **[RDNet]** Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)][[code](https://github.com/svip-lab/RGBD-Counting)] 
