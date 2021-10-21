@@ -28,7 +28,7 @@ Awesome Crowd Localization
 - NWPU-Crowd (dot, box)
 - JHU-CROWD (dot, size)
 - FDST (dot, box)
-- Head Tracking 21 (dot, box, id) [[Download]] (https://motchallenge.net/method/HT=2&chl=21)
+- Head Tracking 21 (dot, box, id) [[Download]](https://motchallenge.net/method/HT=2&chl=21)
 
 ## Papers
 
