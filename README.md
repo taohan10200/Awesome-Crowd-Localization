@@ -33,6 +33,7 @@ Awesome Crowd Localization
 ## Papers
 
 ### Arxiv 
+- <a name="DCST"></a> **[DCST]** Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer [[paper]](https://arxiv.org/abs/2108.00584)
 - <a name="GNA"></a> **[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper]](https://arxiv.org/pdf/2107.08645.pdf)
 - <a name=" SCALNet"></a> **[SCALNet]** Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization [[paper]](https://arxiv.org/abs/2104.12505) [[code]](https://github.com/WangyiNTU/SCALNet)
 - <a name="RDTM"></a> **[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper]](https://arxiv.org/pdf/2102.07925.pdf) [[code]](https://github.com/dk-liang/FIDTM)
@@ -44,6 +45,10 @@ Awesome Crowd Localization
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 
 ### 2021
+- <a name="SA-InterNet"></a> **[SA-InterNet]** A-InterNet: Scale-Aware Interaction Network for Joint Crowd Counting and Localization (**PRVC**) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88004-0_17)
+- A smartly simple way for joint crowd counting and localization (**Neurocomputing**) [[aper]](https://www.sciencedirect.com/science/article/pii/S0925231221009796)
+- A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.html)
+-  <a name=" P2PNet"></a> **[ P2PNet]** Rethinking Counting and Localization in Crowds: A Purely Point-Based Framework (**ICCV**) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Song_Rethinking_Counting_and_Localization_in_Crowds_A_Purely_Point-Based_Framework_ICCV_2021_paper.html)
 - <a name="D2CNet"></a> **[D2CNet]** Decoupled Two-Stage Crowd Counting and Beyond (**TIP**) [[paper]](https://ieeexplore.ieee.org/document/9347700) [[code]](https://git.io/d2cnet)
 - <a name="Crowd-SDNet"></a> **[Crowd-SDNet]** A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (**TIP**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9347744/) [[code]]( https://github.com/WangyiNTU/Point-supervised-crowd-detection)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]
